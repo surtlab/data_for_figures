@@ -1,0 +1,72 @@
+Relative Fitness,Treatment,Replicate,Experiment
+0.816701587,Cip 0 ng/uL,A,Cipro
+0.797986252,Cip 0 ng/uL,A,Cipro
+0.818284187,Cip 0 ng/uL,A,Cipro
+0.811443337,Cip 0 ng/uL,A,Cipro
+1.687894525,Cip 0.5 ng/uL,A,Cipro
+1.286770284,Cip 0.5 ng/uL,A,Cipro
+1.191062133,Cip 0.5 ng/uL,A,Cipro
+1.41919536,Cip 0.5 ng/uL,A,Cipro
+0.804799977,Cip 0 ng/uL,B,Cipro
+0.873176368,Cip 0 ng/uL,B,Cipro
+0.923683705,Cip 0 ng/uL,B,Cipro
+0.875950016,Cip 0 ng/uL,B,Cipro
+1.354489121,Cip 0.5 ng/uL,B,Cipro
+1.484879877,Cip 0.5 ng/uL,B,Cipro
+1.421772368,Cip 0.5 ng/uL,B,Cipro
+1.56261422,Cip 0.5 ng/uL,B,Cipro
+0.781279129,Cip 0 ng/uL,C,Cipro
+0.844870436,Cip 0 ng/uL,C,Cipro
+0.877746273,Cip 0 ng/uL,C,Cipro
+0.838650752,Cip 0 ng/uL,C,Cipro
+1.362209838,Cip 0.5 ng/uL,C,Cipro
+1.33794793,Cip 0.5 ng/uL,C,Cipro
+1.296674971,Cip 0.5 ng/uL,C,Cipro
+1.254297673,Cip 0.5 ng/uL,C,Cipro
+0.880408759,27oC,D,Temp
+0.884015621,27oC,D,Temp
+0.821893318,27oC,D,Temp
+0.756537349,27oC,D,Temp
+0.63529157,37oC,D,Temp
+0.624984645,37oC,D,Temp
+0.621477451,37oC,D,Temp
+0.638397761,37oC,D,Temp
+0.806502071,27oC,E,Temp
+0.83587403,27oC,E,Temp
+0.822329549,27oC,E,Temp
+0.819638731,27oC,E,Temp
+0.518716069,37oC,E,Temp
+0.534493389,37oC,E,Temp
+0.528232262,37oC,E,Temp
+0.51288437,37oC,E,Temp
+0.885106301,27oC,F,Temp
+0.780202055,27oC,F,Temp
+0.849730077,27oC,F,Temp
+0.869523602,27oC,F,Temp
+0.653349469,37oC,F,Temp
+0.653349469,37oC,F,Temp
+0.647940023,37oC,F,Temp
+0.659344045,37oC,F,Temp
+0.930207542,Nal 0 ng/uL,G,Nal
+0.922346751,Nal 0 ng/uL,G,Nal
+0.926318823,Nal 0 ng/uL,G,Nal
+0.898831695,Nal 0 ng/uL,G,Nal
+1.036310214,Nal 20 ng/uL,G,Nal
+1.043358808,Nal 20 ng/uL,G,Nal
+1.061026457,Nal 20 ng/uL,G,Nal
+1.011830072,Nal 20 ng/uL,G,Nal
+1.296071125,Nal 40 ng/uL,G,Nal
+1.343137122,Nal 40 ng/uL,G,Nal
+1.296071125,Nal 40 ng/uL,G,Nal
+0.845875166,Nal 0 ng/uL,H,Nal
+0.856457079,Nal 0 ng/uL,H,Nal
+0.830959707,Nal 0 ng/uL,H,Nal
+0.800302035,Nal 0 ng/uL,H,Nal
+0.97619683,Nal 20 ng/uL,H,Nal
+0.974985269,Nal 20 ng/uL,H,Nal
+1.005568708,Nal 20 ng/uL,H,Nal
+1.032548661,Nal 20 ng/uL,H,Nal
+1.055337915,Nal 40 ng/uL,H,Nal
+1.022560666,Nal 40 ng/uL,H,Nal
+1.060922754,Nal 40 ng/uL,H,Nal
+1.008389385,Nal 40 ng/uL,H,Nal
